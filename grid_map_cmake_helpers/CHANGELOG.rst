@@ -10,7 +10,7 @@ Changelog for package grid_map_cmake_helpers
 * Initial ROS2 port
 * Contributors: Steve Macenski
 
-* Update for rolliing (`#296 <https://github.com/ANYbotics/grid_map/issues/296>`_)
+* Update for rolling (`#296 <https://github.com/ANYbotics/grid_map/issues/296>`_)
   Co-authored-by: Francisco Martin Rico <fmrico@gmail.com>
 * Initial ROS2 port
 * added grid_map_cmake_helpers maintainers
